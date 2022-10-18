@@ -1,0 +1,18 @@
+.image-hero{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+#hero{
+    height: 75vh;
+}
+
+.text-about{
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.card-img-top {
+height: 200px;
+}
